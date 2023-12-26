@@ -10,7 +10,7 @@
 
 ## Cách tải về và chạy code 
 - mở cmd và run:
-- git clone https://github.com/Meepxzje/thweb
+- git clone https://github.com/Meepxzje/thuchanhweb
 - cd thweb
 - cp .env.example .env 
 - mở wampserver truy cập http://localhost/phpmyadmin/index.php?route=/server/databases và tạo database tên là weblaptop, import weblaptop.sql 
